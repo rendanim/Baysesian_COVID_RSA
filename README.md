@@ -9,8 +9,9 @@ medRxiv 2020.04.28.20083873; doi: https://doi.org/10.1101/2020.04.28.20083873
 To run the notebook:
 
 ```
-pip install pymc3
-pip install theano 
-pip install -e covid19_inference_forecast/
+pip3 install pymc3
+pip3 install theano 
+pip3 install git+https://github.com/rendanim/covid19_inference_forecast.git
+
 
 ```
